@@ -1,0 +1,12 @@
+.menu{
+    color: blue;
+    font-size: 1rem;
+    list-style: none;
+    display: flex;
+    padding: 0;
+}
+
+.menu-nav{
+    display: flex;
+    gap: 10px;
+}
